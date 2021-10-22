@@ -5,6 +5,6 @@ Go to ```keys.js``` file and put your keys there. ```CLIENT_ID and CLIENT_SECRET
 
 ```REDIRECT_URI``` is the one that you specified while getting your ```CLIENT_ID and CLIENT_SECRET``` from Reddit.
 
-Then, go to ```views/dashboard.ejs``` file and change the ```REDIRECT_URI``` in the 19th line.
+Then, go to ```views/dashboard.ejs``` file and change the ```REDIRECT_URI``` in line 32.
 
-Once you did that, you can run the ```server.js``` file and start using the web app.
+You can then run the ```server.js``` file and start using the web app.
